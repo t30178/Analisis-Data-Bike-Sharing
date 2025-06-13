@@ -24,5 +24,5 @@ streamlit run dashboard.py
 ```
 
 ## Run my streamlit app
-[https://theodorusaj-bike-rent.streamlit.app/](https://theodorusaj-bike-rent.streamlit.app/)
+[[https://theodorusaj-bike-rent.streamlit.app/](https://theodorusaj-bike-rent.streamlit.app/)](https://theodorusaj-analysis-bike.streamlit.app/)
 
