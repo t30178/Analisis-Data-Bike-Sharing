@@ -1,1 +1,1 @@
-https://theodorusaj-bike-rent.streamlit.app/
+https://theodorusaj-analysis-bike.streamlit.app/
