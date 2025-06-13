@@ -9,8 +9,8 @@ import numpy as np # Import numpy
 # Memuat data dari file CSV yang sudah dibersihkan
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv("day_cleaned.csv")
-    hour_df = pd.read_csv("hour_cleaned.csv")
+    day_df = pd.read_csv("Dashboard/day_cleaned.csv")
+    hour_df = pd.read_csv("Dashboard/hour_cleaned.csv")
     # Kolom 'dteday' seharusnya sudah dalam format datetime di file cleaned,
     # tapi kita konversi ulang untuk memastikan jika diperlukan.
     # Jika yakin sudah datetime, baris ini bisa dihapus.
